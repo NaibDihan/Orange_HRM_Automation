@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Orange-HRM-Automation">
+    <test name="admin login">
+        <classes>
+            <class name="testrunners.LoginTestRunner"></class>
+        </classes>
+    </test>
+    <test name="Create Employee">
+        <classes>
+            <class name="testrunners.PIMTestRunner"></class>
+        </classes>
+    </test>
+    <test name="Search employee by full name">
+        <classes>
+            <class name="testrunners.DirectoryTestRunner"></class>
+        </classes>
+    </test>
+    <test name="User employee login">
+        <classes>
+            <class name="testrunners.UserLoginTestRunner"></class>
+        </classes>
+    </test>
+    <test name="Personal Info">
+        <classes>
+            <class name="testrunners.MyInfoTestRunner"></class>
+        </classes>
+    </test>
+</suite>
