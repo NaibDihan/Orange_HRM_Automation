@@ -33,7 +33,17 @@
 - ``` allure generate allure-results --clean ```
 -  ``` allure serve allure-results ```
 
-##Output
+## Output
 ### Gradle Report
+![Build report](https://github.com/user-attachments/assets/07931eb9-593d-4437-a648-0c6b34ba4c79)
+
+### Allure Report 
+#### Overview Section
+![Allure Report Overview](https://github.com/user-attachments/assets/bd3edb49-e24b-40e4-89ef-3ddd55123718)
+
+#### Behaviour Section
+![Allure Report Behaviour](https://github.com/user-attachments/assets/0965bedd-b390-468d-9265-0b5b0f7ef767)
+
+
 
 
