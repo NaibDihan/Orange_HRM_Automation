@@ -16,7 +16,7 @@
 - JDK LTS Version
 - NODEJS LTS Version
 - Gradle
-- Allure ( If want to generate Allure report)
+- Allure ( If you want to generate an Allure report )
 
 ## Preferred IDE
 - Intellij
