@@ -22,7 +22,7 @@
 - Intellij
 
 ## How to run?
-### Execute the following steps using JMeter:
+### Execute the following steps :
 - ``` git clone <repo_url> ```
 - ``` Open the Termnal ```
 - Write command ``` gradle clean test ```
